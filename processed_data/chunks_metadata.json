@@ -1,0 +1,122 @@
+[
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "AUNT MARGE;Excellent. I won't have this namby-pamby...wishy-washy nonsense about not beating people who deserve it.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "MR. WEASLEY;And in his mind you are the only thing that stands in the way of You-Know-Who returning to power.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "DUMBLEDORE;Our Care of Magical Creatures teacher has decided to retire in order to spend more time with his remaining limbs.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "DUMBLEDORE;Now whilst I've been assured that their presence will not disrupt our day-to-day activities a word of caution.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "MCGONAGALL;Should your behavior reflect poorly on the school that privilege shall not be extended again.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "SNAPE;You may recall prior to the start of term I expressed concerns about your appointment of Professor...",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "DUMBLEDORE;I'm quite convinced the castle is safe and I'm more than willing to send the students to their houses.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "SNAPE;Are you incapable of restraining yourself or do you take pride in being an insufferable know-it-all?",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "MADAM ROSMERTA;It'd be a lot better if the Ministry wasn't sending dementors into my pub every other night!",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "FUDGE;Not only did Black lead him to the Potters that night he also killed one of their friends Peter Pettigrew!",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "HAGRID;He said Buckbeak was a deadly and dangerous creature who would kill you as soon as look at you.",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "LUPIN;Gambling their sacrifice by wandering the castle unprotected with a killer on the loose seems to me a poor way to repay them!",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 3.csv",
+        "chunk_index": 0,
+        "text": "SIRIUS;I can understand if you choose to stay with your aunt and uncle but if you ever wanted a different home...",
+        "column": "CHARACTER;SENTENCE"
+    },
+    {
+        "source": "Harry Potter 2.csv",
+        "chunk_index": 0,
+        "text": "of course that Hogwarts was founded over a thousand years ago by the four greatest witches and wizards of the age:",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 2.csv",
+        "chunk_index": 0,
+        "text": "according to legend Slytherin had built a hidden chamber in this castle known as the Chamber of Secrets.",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 2.csv",
+        "chunk_index": 0,
+        "text": "the Polyjuice Potion allows the drinker to transform himself temporarily into the physical form of another.",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 2.csv",
+        "chunk_index": 0,
+        "text": "once they're asleep hide them in the broomstick cupboard and pull out a few of their hairs and put on their uniforms.",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 2.csv",
+        "chunk_index": 0,
+        "text": "we'll chop them up and stew them. and then we'll get those people down at the hospital un-Petrified.",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 1.csv",
+        "chunk_index": 0,
+        "text": "for those select few who possess the predisposition I can teach you how to bewitch the mind and ensnare the senses.",
+        "column": "Character;Sentence"
+    },
+    {
+        "source": "Harry Potter 1.csv",
+        "chunk_index": 0,
+        "text": "maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confident enough to not pay attention.",
+        "column": "Character;Sentence"
+    }
+]

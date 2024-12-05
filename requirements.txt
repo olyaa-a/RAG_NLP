@@ -1,0 +1,7 @@
+gradio
+pandas
+sentence-transformers
+rank-bm25
+torch
+tqdm
+litellm
